@@ -1,0 +1,30 @@
+body {
+   
+    background-image: url(sala-hospital-hd-8k-fondo-pantalla-imagen-archivo-fotografico_853645-21339.avif);
+    background-repeat:round
+}
+
+
+#container{
+  
+    margin: auto;
+    margin-top: 250px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+
+}
+
+.login_input{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    background-color: rgba(0, 162, 255, 0.712);
+    border-radius: 10px 10px 0 0 ;
+}
